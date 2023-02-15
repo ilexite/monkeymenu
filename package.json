@@ -1,0 +1,16 @@
+{
+	"name": "monkey-menu",
+	"version": "0.1.0",
+	"author": "ilexite",
+	"license": "GPL-3.0",
+	"private": true,
+	"description": "Menu for TamperMonkey and ViolentMonkey",
+	"scripts": {
+		"dev": "nodemon --watch src/ --exec npx webpack"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.20",
+		"webpack": "^5.75.0",
+		"webpack-cli": "^5.0.1"
+	}
+}

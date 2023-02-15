@@ -1,0 +1,8 @@
+# Node
+/node_modules/
+
+# Compiled
+/dist/
+
+# Logs
+*.log*
