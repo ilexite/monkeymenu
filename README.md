@@ -75,7 +75,7 @@ class MyMenu extends _MonkeyMenu {
 			all: "initial",
 
 			// Use the same font as the main title
-			fontFamily: "Inter",
+			fontFamily: "Inter, sans-serif",
 			fontSize: "32px",
 			fontWeight: "bold",
 

@@ -78,7 +78,7 @@ export class Menu {
 
 			color: "#aaa",
 
-			fontFamily: "Inter",
+			fontFamily: "Inter, sans-serif",
 			fontSize: "12px",
 
 			padding: "5px",
@@ -123,7 +123,7 @@ export class Menu {
 			// Reset all
 			all: "initial",
 
-			fontFamily: "Inter",
+			fontFamily: "Inter, sans-serif",
 			fontSize: "32px",
 			fontWeight: "bold",
 

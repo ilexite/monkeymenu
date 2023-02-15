@@ -26,7 +26,7 @@ export class Button {
 			// Reset all
 			all: "initial",
 
-			fontFamily: "Inter",
+			fontFamily: "Inter, sans-serif",
 			fontSize: "18px",
 			fontWeight: "medium",
 
@@ -60,7 +60,7 @@ export class Button {
 			border: "none",
 			borderRadius: "10px",
 
-			fontFamily: "Inter",
+			fontFamily: "Inter, sans-serif",
 			fontSize: "16px",
 
 			cursor: "pointer",

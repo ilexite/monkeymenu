@@ -42,7 +42,7 @@ export class Help extends Button {
 			// Reset all
 			all: "initial",
 
-			fontFamily: "Inter",
+			fontFamily: "Inter, sans-serif",
 			fontSize: "16px",
 
 			lineHeight: "22px",
